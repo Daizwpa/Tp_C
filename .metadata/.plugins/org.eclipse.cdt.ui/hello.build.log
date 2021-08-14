@@ -1,0 +1,9 @@
+07:58:49 **** Incremental Build of configuration Debug for project hello ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\ActiveState Komodo IDE 11\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Daix wap\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Daix wap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daix wap\AppData\Local\atom\bin;C:\Users\Daix wap\AppData\Roaming\npm;C:\Users\Daix wap\Downloads]
+
+07:58:49 Build Failed. 1 errors, 0 warnings. (took 451ms)
+

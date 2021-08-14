@@ -1,0 +1,12 @@
+/* 
+ * Name of file   : 
+ * Name of author : Daix Wap
+ * Role           : 
+ * Date of create : 
+ */
+
+#ifndef DEF_
+#define DEF_
+
+
+#endif // DEF_

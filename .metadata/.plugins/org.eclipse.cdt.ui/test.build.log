@@ -1,0 +1,10 @@
+08:25:46 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+
+08:25:46 Build Finished. 0 errors, 0 warnings. (took 254ms)
+

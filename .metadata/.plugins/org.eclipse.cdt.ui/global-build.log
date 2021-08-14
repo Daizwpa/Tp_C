@@ -1,0 +1,95 @@
+07:48:30 **** Build of configuration Debug for project hello ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\ActiveState Komodo IDE 11\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Daix wap\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Daix wap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daix wap\AppData\Local\atom\bin;C:\Users\Daix wap\AppData\Roaming\npm;C:\Users\Daix wap\Downloads]
+07:49:11 **** Incremental Build of configuration Debug for project hello ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\ActiveState Komodo IDE 11\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Daix wap\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Daix wap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daix wap\AppData\Local\atom\bin;C:\Users\Daix wap\AppData\Roaming\npm;C:\Users\Daix wap\Downloads]
+07:58:49 **** Incremental Build of configuration Debug for project hello ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\ActiveState Komodo IDE 11\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Daix wap\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Daix wap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daix wap\AppData\Local\atom\bin;C:\Users\Daix wap\AppData\Roaming\npm;C:\Users\Daix wap\Downloads]
+
+**** Build of configuration Debug for project test ****
+
+Nothing to build for project test
+08:07:54 **** Build of configuration Debug for project test ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\ActiveState Komodo IDE 11\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Daix wap\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Daix wap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daix wap\AppData\Local\atom\bin;C:\Users\Daix wap\AppData\Roaming\npm;C:\Windows\System32]
+08:08:11 **** Incremental Build of configuration Debug for project test ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:/Program Files/Java/jre1.8.0_211/bin/server;C:/Program Files/Java/jre1.8.0_211/bin;C:/Program Files/Java/jre1.8.0_211/lib/amd64;C:\Program Files (x86)\ActiveState Komodo IDE 11\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Daix wap\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Daix wap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Daix wap\AppData\Local\atom\bin;C:\Users\Daix wap\AppData\Roaming\npm;C:\Windows\System32]
+08:10:00 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building file: ../src/test.c'
+'Invoking: Cross GCC Compiler'
+mingw32gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.c"
+'Finished building: ../src/test.c'
+' '
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+08:11:05 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+08:20:13 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+08:23:50 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+08:24:03 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+08:24:51 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+08:25:30 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
+08:25:46 **** Incremental Build of configuration Debug for project test ****
+make all 
+'Building target: test'
+'Invoking: Cross GCC Linker'
+mingw32gcc  -o "test"  ./src/test.o   
+'Finished building target: test'
+' '
